@@ -245,11 +245,18 @@ servers.
 
 # Talk To Us  {.r-fit-text data-background="images/1.png"}
 
-📩 <calvin@sixfeetup.com>  
-🤝 <https://linkedin.com/in/calvinhp>  
-🦋 [@calvinhp.com](https://bsky.app/profile/calvinhp.com)  
+<div style="display: flex; justify-content: space-around;">
 
+<div style="flex: 1; text-align: left;">
+📩 <calvin@sixfeetup.com><br>
+🤝 <https://linkedin.com/in/calvinhp><br>
+🦋 <a href="https://bsky.app/profile/calvinhp.com">@calvinhp.com</a>
+</div>
 
-📩 <tfrisinger@8thlight.com>  
-🤝 <https://linkedin.com/in/travis-frisinger>  
-🦋 [@tmfrisinger.bsky.social](https://bsky.app/profile/tmfrisinger.bsky.social)  
+<div style="flex: 1; text-align: left;">
+📩 <tfrisinger@8thlight.com><br>
+🤝 <https://linkedin.com/in/travis-frisinger><br>
+🦋 <a href="https://bsky.app/profile/tmfrisinger.bsky.social">@tmfrisinger.bsky.social</a>
+</div>
+
+</div>
