@@ -221,7 +221,6 @@ servers.
 
 - Specify conventions in Cursor Rules: ./cursor/rules
   https://docs.cursor.com/context/rules-for-ai
-- Ask Cursor to setup a `.cursor-guildeline.json`
 - Explore-Plan-Build loop
 
 ---
