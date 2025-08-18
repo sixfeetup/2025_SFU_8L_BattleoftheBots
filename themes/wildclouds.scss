@@ -85,6 +85,15 @@ body:after {
 }
 
 
+body::before {
+  content: url(../../images/8thlight_logo_reversed.png);
+  transform: scale(.3);
+  position: fixed;
+  bottom: -9em;
+  left: 6em;
+}
+
+
 // Theme template ------------------------------
 @import "../template/theme";
 // ---------------------------------------------
