@@ -215,6 +215,14 @@ servers.
 
 ---
 
+# Tool Introduction: Devin {data-background="images/1.png"}
+
+---
+
+# Demo: Devin {data-background="images/1.png"}
+
+---
+
 # Agentic Coding Models {data-background="images/1.png"}
 
 ![](images/aider_leaderboar.png)
