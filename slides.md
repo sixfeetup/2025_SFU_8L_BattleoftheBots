@@ -84,6 +84,16 @@ Key characteristics:
 
 ---
 
+# Agents Continued {data-background="images/4.png"}
+
+Styles:
+
+- **IDE**: Feels like Copilot on steroids. It has smooth integration inside your editor, low-friction for everyday coding.
+- **CLI**: Runs in your terminal where you drive the conversation. Great for deliberate workflows and bigger refactors.
+- **Autonomous**: Tools that pursue higher-level goals across multiple steps. Handy for repetitive tasks, but still hit-or-miss.
+
+---
+
 # What is MCP? {data-background="images/6.png"}
 
 ![](images/Model%20Context%20Protocol%20Diagram.png){.r-stretch .r-frame .r-center}
@@ -212,14 +222,28 @@ servers.
 - Specify conventions in Cursor Rules: ./cursor/rules
   https://docs.cursor.com/context/rules-for-ai
 - Ask Cursor to setup a `.cursor-guildeline.json`
+- Explore-Plan-Build loop
 
 ---
 
-# Tool Introduction: Devin {data-background="images/1.png"}
+# Tool Introduction: Devin {data-background="images/4.png"}
+
+- Developed by Cognition Labs
+- Closed-source, commercial tool (not open-source)
+- Marketed as the "first AI software engineer"
+- Fully autonomous execution (planning, coding, testing, deployment)
+- No MCP support; tightly integrated proprietary stack
+- Focused on end-to-end task delivery vs. code assistance
 
 ---
 
-# Demo: Devin {data-background="images/1.png"}
+# Demo: Devin {data-background="images/4.png"}
+
+- Provide task in natural language: "Build a web app for X"
+- Devin creates repo, chooses stack, and scaffolds project automatically
+- Runs code, fixes errors, and deploys without human intervention
+- Interfaces with issue trackers and CI/CD pipelines directly
+- Tradeoff: less user control, harder to audit/debug than IDE/CLI-first tools
 
 ---
 
