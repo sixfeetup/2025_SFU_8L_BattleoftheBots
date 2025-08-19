@@ -261,7 +261,7 @@ servers.
 | Claude | No          | Yes         | Full    | Claude Models          |
 | Cursor | No          | Yes         | Full    | OpenAI, Claude, Gemini |
 | Goose  | Yes         | Yes         | Full    | Bring your own         |
-| Devin  |           |           |     |       |
+| Devin  | No          | Yes         | Full    | OpenAI                 |
 
 ---
 
