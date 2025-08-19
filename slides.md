@@ -209,7 +209,7 @@ servers.
 
 # Tool introduction: Cursor {.r-fit-text data-background="images/1.png"}
 
-- Developed by Cursor team (acquired by Anthropic)
+- Developed by Cursor team
 - Proprietary editor with open-source components
 - Supports both OpenAI and Anthropic models
 - Fully agentic with project navigation
